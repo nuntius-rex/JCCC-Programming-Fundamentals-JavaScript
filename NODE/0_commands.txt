@@ -1,0 +1,26 @@
+//Keyboardings
+//DOS
+cls - clear screen
+cmd /k node
+dir - list directory (folder)
+cd - change directory (folder)
+cd Documents/NODE_CLASS
+
+//Making fike
+echo text > filename.txt
+echo.>app.js
+
+//File Explorer
+1.) Navigate to folder
+2.) In address type:
+ - cmd /k node
+ - cmd
+
+
+//KEYBOARD
+Ctrl+C
+Ctrl+D
+Tab
+Up Arrow
+Down Arrow
+Underscore
